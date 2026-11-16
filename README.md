@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Print Prep
+
+**Embryo Print Prep** is Embryo-Zero's fork of [Cura](https://github.com/Ultimaker/Cura), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 
 > [!IMPORTANT]  
 > We switched to a new remote server for our Conan Artifacts.
